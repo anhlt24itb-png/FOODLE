@@ -1,0 +1,4 @@
+- `[x]` Update `app/build.gradle.kts` with plugins and dependencies
+- `[x]` Create root `build.gradle.kts`
+- `[x]` Verify `MainActivity.kt` and `FoddyApp.kt` for resolution errors
+- `[x]` Remind user about `google-services.json`
